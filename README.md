@@ -35,4 +35,4 @@ Links
 
 ## Links
 
-The full research report for my project is available [here](./no202501-techrep-boureghda.pdf).
+The full research report for my project is available [here](./docs/202501_techrep_BOUREGHDA.pdf).
